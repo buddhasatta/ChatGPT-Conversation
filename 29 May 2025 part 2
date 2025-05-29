@@ -1,0 +1,127 @@
+# 🚀 Data Architect Upskilling Plan – From Engineer to Architect
+
+## 🎯 Goal
+Become a **practical, respected Senior Data Architect** with strong skills in:
+- Data Engineering (pipelines, tools, cloud)
+- Data Science (ML basics, stats, Python)
+- Architecture (system design, governance)
+- Communication & real-world project delivery
+
+---
+
+## 🧾 PHASE PLAN
+
+### 📘 Phase 0: Math & Stats Foundation (1 Month)
+- Arithmetic, Algebra, Functions
+- Probability & Statistics
+- Logical reasoning (for interviews)
+
+**Books/Resources:**
+- ICSE/CBSE Class 9–12 Math Books
+- N.U. Medhi – *Theory of Probability*
+- Gupta & Kapoor – *Mathematical Statistics*
+- Khan Academy / YouTube / LeetCode (Easy)
+
+---
+
+### 💾 Phase 1: Core Data Engineering (2–3 Months)
+- Advanced SQL (joins, CTEs, windows)
+- ETL, Data Modeling
+- Tools: Spark, Hadoop, Kafka, Airflow
+- Cloud: AWS (S3, Glue), GCP (BigQuery)
+- Version Control, Docker, Jenkins
+
+**Books:**
+- *Fundamentals of Data Engineering* – Reis & Housley
+- *Big Data Analytics with Hadoop* – Govind
+- *Advanced Analytics with AWS* – Joseph Conley
+- *Ultimate Data Engineering with Databricks*
+- *Hands-On System Design* – Harsh Kumar
+
+---
+
+### 🧠 Phase 2: Data Science Foundations (2–3 Months)
+- Stats, Linear Algebra refresh
+- ML Basics: Regression, Classification, Clustering
+- Python: pandas, NumPy, scikit-learn
+- Data Visualization: seaborn, matplotlib
+
+**Books:**
+- *Machine Learning with Python* – Manohar
+- *Intro to Data Science with R & Python* – B Uma Maheswari
+- *Python for Data Analysis* – Wes McKinney
+
+---
+
+### 🏗️ Phase 3: Architecture & Leadership (3–6 Months)
+- System Design Patterns for Data
+- Data Governance, Security
+- Data Lake, Data Warehousing
+- Soft Skills: Presenting, Decision-Making, Documentation
+
+**Books:**
+- *The Data Warehouse Toolkit* – Kimball & Ross
+- *Mastering Snowflake*
+- *Cost-Effective Data Pipelines* – Jesse Anderson
+- *Cloud Data Lake* – Orly
+
+---
+
+## 🧪 DAILY/WEEKLY ROUTINE
+
+### 🗓️ Daily (Mon–Fri)
+- 45–60 mins study (early morning or night)
+- Alternate between reading + hands-on
+
+### 📚 Weekend (Sat/Sun)
+- Sat: Mini project, LeetCode, pipeline building
+- Sun: Weekly review, GitHub/blog update
+
+---
+
+## 💼 Parallel Track: Job Switch Prep
+
+Start once **Phase 1 is ~70% complete**.
+
+### 🔧 Prep Checklist:
+- ✅ Resume rewrite (highlight projects, tools)
+- ✅ LinkedIn profile update
+- ✅ GitHub portfolio (2–3 hands-on projects)
+- ✅ Start applying (target Bengaluru product firms, cloud-native teams)
+- ✅ Start mock interviews (technical + behavioral)
+
+---
+
+## 🧠 Mindset Tips
+- Stay consistent — even 1 hour daily makes a difference
+- Learn by doing — build, test, debug
+- Track progress in Notion/Google Sheets
+- Celebrate small wins (finished a book/chapter/project)
+- Be patient — confidence comes in layers
+
+---
+
+## 🛍️ Optional Future Book Buys
+- *Designing Data-Intensive Applications* – Martin Kleppmann ✅
+- *Building Data Streaming Applications* – Manish Kumar
+- *System Design Interview* – Alex Xu
+
+---
+
+## 📌 Estimated Timeline to Confidence
+
+| Time | Outcome |
+|------|---------|
+| 1 Month | Math and logic clarity returns |
+| 3 Months | Confident in pipelines, SQL, AWS, Spark |
+| 6 Months | Job-switch ready + project portfolio |
+| 9–12 Months | Architect-level mindset and skills |
+
+---
+
+## 🔁 Continuation Tips
+- Save this file locally or in the cloud
+- Talk to ChatGPT daily: "Bro, continue from Phase 1 > Week 2"
+- Reflect weekly: What worked? What needs change?
+
+---
