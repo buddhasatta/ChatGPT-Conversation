@@ -1,0 +1,178 @@
+# 📚 Ultimate Tech Book List: Software Engineering to AI/ML
+
+A curated and categorized list of essential books to master the full stack of technology – from code to cloud, data to decision-making, systems to strategy.
+
+---
+
+## 1. 🧑‍💻 Software Engineering
+
+### Core Principles
+- Clean Code – Robert C. Martin
+- The Pragmatic Programmer – Andrew Hunt, David Thomas
+- Code Complete – Steve McConnell
+- Refactoring – Martin Fowler
+- The Clean Coder – Robert C. Martin
+- Software Engineering at Google – Titus Winters et al.
+- Extreme Programming Explained – Kent Beck
+
+### Design Patterns & Architecture
+- Design Patterns – Erich Gamma et al.
+- Domain-Driven Design – Eric Evans
+- Patterns of Enterprise Application Architecture – Martin Fowler
+- Head First Design Patterns – Eric Freeman
+- The Art of Scalability – Martin Abbott, Michael Fisher
+- Software Architecture: The Hard Parts – Neal Ford, Mark Richards
+
+---
+
+## 2. 🧱 System Design & Scalability
+
+- Designing Data-Intensive Applications – Martin Kleppmann
+- Building Microservices – Sam Newman
+- The System Design Interview – Alex Xu
+- Scalability Rules – Martin Abbott, Michael Fisher
+- Software Systems Architecture – Rozanski & Woods
+- Release It! – Michael T. Nygard
+- Site Reliability Engineering – Betsy Beyer et al.
+- The Art of Capacity Planning – John Allspaw
+
+---
+
+## 3. 🛠️ Data Engineering
+
+- Fundamentals of Data Engineering – Joe Reis, Matt Housley
+- Streaming Systems – Tyler Akidau et al.
+- Designing Cloud Data Platforms – Danil Zburivsky, Lynda Partner
+- Data Management for Researchers – Kristin Briney
+- The Data Warehouse Toolkit – Ralph Kimball
+- Designing Event-Driven Systems – Ben Stopford
+- Data Pipelines Pocket Reference – James Densmore
+- Building the Data Lakehouse – Bill Inmon
+
+---
+
+## 4. 📊 Data Science & Analytics
+
+### Foundations
+- Data Science from Scratch – Joel Grus
+- Python for Data Analysis – Wes McKinney
+- Doing Data Science – Cathy O’Neil, Rachel Schutt
+- Think Stats – Allen B. Downey
+- Naked Statistics – Charles Wheelan
+
+### Statistics & Probability
+- Practical Statistics for Data Scientists – Peter Bruce
+- The Elements of Statistical Learning – Hastie, Tibshirani, Friedman
+- Statistical Inference – Casella & Berger
+- Bayesian Methods for Hackers – Cameron Davidson-Pilon
+
+---
+
+## 5. 🤖 Artificial Intelligence & Machine Learning
+
+### ML/AI Core
+- Artificial Intelligence: A Modern Approach – Russell & Norvig
+- Pattern Recognition and Machine Learning – Christopher Bishop
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow – Aurélien Géron
+- Machine Learning Yearning – Andrew Ng
+
+### Deep Learning
+- Deep Learning – Ian Goodfellow, Yoshua Bengio, Aaron Courville
+- Dive Into Deep Learning – Aston Zhang et al.
+- Grokking Deep Learning – Andrew Trask
+
+### NLP & Generative AI
+- Speech and Language Processing – Jurafsky & Martin
+- Natural Language Processing with Transformers – Lewis Tunstall
+- Generative Deep Learning – David Foster
+- Transformers for Natural Language Processing – Denis Rothman
+
+---
+
+## 6. 🔍 Computer Science Fundamentals
+
+### Algorithms & Data Structures
+- Introduction to Algorithms (CLRS) – Cormen et al.
+- Grokking Algorithms – Aditya Bhargava
+- The Algorithm Design Manual – Steven Skiena
+- Algorithms – Robert Sedgewick & Kevin Wayne
+
+### Operating Systems & Architecture
+- Operating Systems: Three Easy Pieces – Remzi Arpaci-Dusseau
+- Computer Systems: A Programmer’s Perspective – Randal E. Bryant
+- Modern Operating Systems – Andrew S. Tanenbaum
+- Structured Computer Organization – Tanenbaum
+
+### Compilers & Theory
+- Compilers: Principles, Techniques, and Tools (Dragon Book) – Aho, Lam, Sethi, Ullman
+- Introduction to the Theory of Computation – Michael Sipser
+
+---
+
+## 7. 🌐 Web, Cloud & DevOps
+
+- The Phoenix Project – Gene Kim et al.
+- The DevOps Handbook – Gene Kim et al.
+- Cloud Native DevOps with Kubernetes – John Arundel
+- Kubernetes: Up and Running – Brendan Burns et al.
+- Site Reliability Engineering – Google SRE team
+- Infrastructure as Code – Kief Morris
+- Terraform: Up and Running – Yevgeniy Brikman
+
+---
+
+## 8. 🔐 Security & Cryptography
+
+- Security Engineering – Ross Anderson
+- The Web Application Hacker’s Handbook – Dafydd Stuttard
+- Serious Cryptography – Jean-Philippe Aumasson
+- Applied Cryptography – Bruce Schneier
+- Practical Cryptography – Niels Ferguson, Bruce Schneier
+
+---
+
+## 9. 🎯 Career Growth, Leadership, and Product Thinking
+
+- The Manager’s Path – Camille Fournier
+- Staff Engineer – Will Larson
+- An Elegant Puzzle – Will Larson
+- Inspired – Marty Cagan
+- Accelerate – Nicole Forsgren, Jez Humble
+- Measure What Matters – John Doerr
+- Working Backwards – Colin Bryar, Bill Carr
+- The Lean Startup – Eric Ries
+- Zero to One – Peter Thiel
+
+---
+
+## 10. 🧠 Mathematics for Programming, ML & AI
+
+- Mathematics for Machine Learning – Deisenroth, Faisal, Ong
+- Linear Algebra Done Right – Sheldon Axler
+- Introduction to Probability – Blitzstein, Hwang
+- Calculus Made Easy – Silvanus P. Thompson
+- Discrete Mathematics and Its Applications – Kenneth H. Rosen
+
+---
+
+## 11. 🧮 Database Systems
+
+- Database System Concepts – Silberschatz, Korth
+- Fundamentals of Database Systems – Elmasri, Navathe
+- SQL Performance Explained – Markus Winand
+- High Performance MySQL – Baron Schwartz
+- NoSQL Distilled – Pramod J. Sadalage
+
+---
+
+## 12. 📦 Miscellaneous Classics & CS Culture
+
+- Hackers and Painters – Paul Graham
+- The Mythical Man-Month – Frederick P. Brooks
+- The Soul of a New Machine – Tracy Kidder
+- Coders at Work – Peter Seibel
+- Masters of Doom – David Kushner
+
+---
+
+> ✅ **Want this as a Notion database, HTML doc, or JSON file? Just ask!**
