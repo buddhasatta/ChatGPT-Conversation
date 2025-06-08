@@ -1,0 +1,70 @@
+Total Syllabus:
+
+Programming Language :
+Python Java Scala -- first complete this one 
+
+
+General software auth skills :
+Oauth
+JWT
+GraphQL
+REST
+gRPC
+Caching
+
+Web Framework for Python Development:
+
+Python: Flask Django FastAPI
+Java: SpringBoot
+
+
+
+Operating System:
+Linux
+
+
+Network Concepts :
+
+Firewall
+VPN
+
+Network Protocols:
+
+DNS
+SSH
+UDP
+TCP/IP
+HTTP/HTTPS
+
+
+Mathematics :
+
+
+
+Statistics:
+
+
+Testing:
+Unit Testing
+Load Testing
+Integration Testing
+A/B Testing
+Functional Testing
+Smoke Testing
+
+
+Version Control :
+GIT
+
+GIT  Version :
+GIT LAB
+BIT Bucket
+GIt hub
+
+
+Distributed Computing :
+CAP -- Consistency, Avalibility, Partition tolerance
+PACELC 
+DataBase Sharding
+CLOCK 
+Replication
